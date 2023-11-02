@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply bg-[#1F3757] text-white leading-none;
+	}
+}
+
+.custom-shadowe {
+	box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+}
