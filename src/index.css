@@ -4,10 +4,10 @@
 
 @layer base {
 	body {
-		@apply bg-[#1F3757] text-white leading-none;
+		@apply bg-[#1F3757] leading-none font-bold text-white;
 	}
 }
 
-.custom-shadowe {
+.custom-shadow {
 	box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
 }
